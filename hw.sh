@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Fuck you!"
+echo "Fuck you all!"
