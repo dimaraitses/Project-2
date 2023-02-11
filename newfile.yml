@@ -1,3 +1,9 @@
 ---
 # new yaml file
+devices:
+    routers:
+        R1:
+            hostname: R1
+            vendor: cisco
+            model: 7200
 ...
