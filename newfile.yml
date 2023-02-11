@@ -6,4 +6,8 @@ devices:
             hostname: R1
             vendor: cisco
             model: 7200
+       R2:
+           hostname: R2
+           vendor: juniper
+           model: vmx
 ...
